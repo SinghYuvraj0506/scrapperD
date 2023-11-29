@@ -1,0 +1,203 @@
++-------------+-----------------------------+---------------------------------------------------------+
+| ID          | Username                    | Full Name                                               |
++-------------+-----------------------------+---------------------------------------------------------+
+| 44844057823 | rajput_babun                | Shailendra Singh                                        |
+| 48829867917 | _chaturvedi_r98             | Kittu Choubey                                           |
+| 62985089684 | anu_deep_2006               | Anamika Singh                                           |
+| 8182297677  | __itz_jyotiii__             | ᴊyᴏᴛɪ ꜱɪɴɢʜ                                             |
+| 19139927140 | _designer_ravi_             | RAVI PRAKASH                                            |
+| 59477712298 | vaibhav.fitt                | Vaibhav                                                 |
+| 57331898848 | om_gift_zone                | OM GIFT Housing Board Colony.   Proprietor=Shwet Thakre |
+| 60685551477 | shouryasir                  | shourya sir                                             |
+| 58666291780 | tss27196                    | ठाकुर सूरज सिंह                                         |
+| 51639894942 | babahindijokess             | बाबा के चुटकुले Baba Hindi Jokes                        |
+| 59670969604 | cheap_person_0              | cheap person                                            |
+| 59233365369 | mr__sahil__802              | Mr___sahil  👑👑                                          |
+| 59401446585 | ris.habh5828                |                                                         |
+| 55464753521 | vshnvii.09                  | vaishnavi <3 || 🦢                                       |
+| 54077399887 | jatishka_0431               | Jatishka<3                                              |
+| 47199838840 | nikhilbhardwaj_23           | Nikhil Bhardwaj                                         |
+| 2903187472  | ravilex70024                | Ravi Ahirwar                                            |
+| 36166446517 | gadgetzone_pune             | GadgetZone (Pune)                                       |
+| 3949373014  | ranusingh148                | Ekta Singh                                              |
+| 16949466278 | himanshu_thisside           | Himanshu Shekhar                                        |
+| 58286474482 | beanchors                   | anchors                                                 |
+| 53644756213 | srajpootrohit               | Rajpoot Rohit Singh                                     |
+| 3069904802  | shobhakantpanditofficial    | Shobhakant Pandit                                       |
+| 11379403372 | anshu__singh11              | Anshu Singh                                             |
+| 55257050014 | vansh_agarwa_l              | vansh bansal                                            |
+| 15306085805 | ____albatraoz____           | 𝐍𝐚𝐧𝐝𝐢𝐭𝐚 𝐃𝐚𝐬                                             |
+| 36320357824 | muskan_ansari9045           | Sohil Ansari                                            |
+| 54743460259 | albatraoz.jpeg              | 𝐍𝐚𝐧𝐝𝐢𝐭𝐚                                                 |
+| 4974717571  | rahulp_43                   | Rahul Patel                                             |
+| 57333355353 | bhakti__1310                | Bhakti Patil                                            |
+| 56792938400 | aryan.singhhh._             | शुभम सिंह                                               |
+| 39374621927 | anushkashrivastava7         | Anushka shrivastava                                     |
+| 5388830133  | abneetnayak                 | Abneet Nayak (jinu)                                     |
+| 51698206319 | varun_rajput_4823           | Varun Rajput                                            |
+| 4341357137  | alihasan.786                | Ali Hasan                                               |
+| 56492579245 | singhkavita80               | Kavita Singh                                            |
+| 22236329637 | swatibadola._               | Swatii✨                                                 |
+| 41162689807 | chetan_naagar_              | Chetan Naagar                                           |
+| 45459529245 | pvt_vaniii                  | वंशिका गौतम*                                            |
+| 56017978320 | cue.master1                 | CUE Master's Pool & Snooker Jhalwa                      |
+| 45075390872 | tanishka_gautam__08         | Tanishka🐣                                               |
+| 51705801287 | dseu_okhla_ii               | DSEU Confession Diaries                                 |
+| 55367151085 | _deepakchaudhary01          | Deepak Chaudhary 🏳️‍🌈                                   |
+| 52451287942 | dreamjobsconsultancy        | Dream jobs consultancy                                  |
+| 55313929343 | rajat_ki_kalam_se           | Rajat Kumar Jha                                         |
+| 27251683366 | adarsh.masani               | Adarsh🎭                                                 |
+| 54823467740 | anami_kushwanshi_           | Anami kushwah                                           |
+| 53635579691 | singhrajpoot994             | singh rajpoot                                           |
+| 6241280768  | banna1197                   | Raj Banna راج                                           |
+| 6676748084  | tusharkundra1234            | Tushar Kundra                                           |
+| 54250275514 | prashantpatil3952           | Prashant Patil                                          |
+| 53680474837 | iamrishu7505                | Sahil Yadav                                             |
+| 53804075360 | alokparna_bharati_007       | ALOKPARNA BHARATI                                       |
+| 53767455657 | agrawal_komal23             | Komal Agrawal                                           |
+| 9475585440  | mr__nitin_2004              | Nitin singh                                             |
+| 6795811670  | jaydeepgour_                | Jaydeep Gour 👔                                          |
+| 7116760626  | rohit_singh_2001_           | Rohit Singh                                             |
+| 7079820503  | singh.sahab098              | Harsh Singh                                             |
+| 53321369242 | anujpandit_9151             | Anuj pandit                                             |
+| 49814832711 | simrantomar1028             | Simran🤎                                                 |
+| 39064153386 | shrubby_surbhi              | Surbhi                                                  |
+| 4434839022  | who._.sarthak               | S@rthak                                                 |
+| 47352742785 | tushar.0.8                  | Tushar                                                  |
+| 7666799704  | harshit_4v                  | Harshit Aneja                                           |
+| 47659958009 | rupa9955s                   | PRINCESS                                                |
+| 32439808740 | ashutosh.0802               | Ashutosh                                                |
+| 11833517966 | mrridulaaa                  | Mridula Dwivedi                                         |
+| 4139246389  | manvendra1k57               | Manvendra pandey                                        |
+| 52560459440 | sanatani._.hindu._.sahil    | Sahil yadav                                             |
+| 6721544573  | mohit__aggrwl               | Mohit Aggarwal                                          |
+| 32517276720 | ishikajain.__25             | Ishika Jain                                             |
+| 49521784051 | nikki_gupta_19              | Nikita Gupta                                            |
+| 45171130036 | anuraggupta_21              | Anurag Gupta                                            |
+| 44528906264 | chandan_31gupta             | Chandan_Gupta                                           |
+| 36911536765 | adityafied                  | Aditya yadav                                            |
+| 5514120625  | siddhijain9                 | Siddhi Jain                                             |
+| 29776093924 | manii_karnikaa              | मणि                                                     |
+| 5746253482  | yaaar_akash                 | Akash Kumar                                             |
+| 6198214812  | _trader_ankit_007_          | Ankit Srivastava                                        |
+| 6223686576  | jatin_jayant_               | Jatin Jayant(Jeevan)                                    |
+| 51983687077 | yogesh_palke007             | Yogesh Palke                                            |
+| 8009725581  | hey_deep.ak                 | Deepak Bharadwaj ✨                                      |
+| 51700672608 | just_tanmay29               | Tanmay Patidar                                          |
+| 49027514270 | harshit_rajputs             | 🔥Harshit Singh🔥                                         |
+| 51644652557 | mindwrap_coding_club        | MINDWRAP CODING CLUB                                    |
+| 51287604547 | muhammad.saif__             | Saif Ansari                                             |
+| 49769919778 | gourav_sonare               | Gourav_Sonare                                           |
+| 39462719700 | _hellophysics               | Hello Physics                                           |
+| 36782267750 | _uma_3229                   | Uma                                                     |
+| 48485654144 | medicaps_memer              | Medicaps University Confession                          |
+| 44815415401 | himanshu_mukati_0505        | Himanshu Mukati                                         |
+| 7348926088  | mafia.pandey                | Harsh pandey                                            |
+| 48769375800 | pushpasingh7369             | Pushpa Singh                                            |
+| 7341571731  | shailendra_patel18          | शैलेन्द्र पटेल                                            |
+| 7826279293  | its_krishna_kp              | Krishna Tanwar                                          |
+| 3157733064  | sin.swati                   | Swati Rajput                                            |
+| 44241812679 | __trave_l_world__           | travel world                                            |
+| 36652734839 | lala__7s                    | Gopal Kushwaha                                          |
+| 46166790835 | _ishwar_singh02             | Ishwar singh                                            |
+| 47600587344 | _raksha_verma__             | LIONESS....💫                                            |
+| 11596311928 | sonali_kaushal__            | ❤️sona....                                              |
+| 47656638493 | krishnarohila.1             | KRISHNA ROHILA                                          |
+| 4609213944  | _mishra_nikita_             | ♛𝓝𝓲𝓴𝓲𝓽𝓪 𝓜𝓲𝓼𝓱𝓻𝓪                                          |
+| 38112685380 | _sourav_kushwaha            | Sourav Singh Kushwaha                                   |
+| 31839460969 | kanishka_chouhan_           | Kanishka🥀                                               |
+| 47050924024 | __.shikayatein.__           |                                                         |
+| 47433097344 | vaibhav.bagade_             | 𝚅𝚊𝚒𝚋𝚑𝚊𝚟                                                 |
+| 46596373022 | itz_kamakshi_sharma         | कामाक्षी शर्मा 💕                                          |
+| 18368360063 | alfn_vrghz_                 | Alfeen Varghese                                         |
+| 47799558240 | satyam72.72                 | 𝓢𝓪𝓽𝔂𝓪𝓶                                                  |
+| 14640360795 | anami_hair_makeup_artist    | Chrome beauty salon & academy                           |
+| 2946627411  | _thakur_dheeraj_singh_      | Thakur Dheeraj Singh                                    |
+| 36030766891 | anamika_singh28_            | Anamika Singh                                           |
+| 41860751021 | mere_dil_me_tumho           | 💞 "दिल में हो तुम"💞                                     |
+| 39610941077 | sourabh_09873               | sourabh                                                 |
+| 27293550581 | mr_kalaakar_2001            | Anuraggg...... ❤                                        |
+| 42307771564 | raniyadav6649               | Rani_VIMLA                                              |
+| 40246119365 | soniji3448                  | Aniket Arun Kumar Soni                                  |
+| 44954348017 | khushi_patel170             | Khushi Patel                                            |
+| 3183689187  | tanmay_patidar_2            | Tanmay Patidar                                          |
+| 39866736292 | varun_shraddha_myanmar      | varuniac👑💖💓💗                                            |
+| 38995409350 | aasmita_cha                 | asmita🌻                                                 |
+| 9371411432  | tarun_.patel                | Tarun Patel                                             |
+| 8416251174  | aman_kumbhare_              | || Aman ||                                              |
+| 38470159584 | ipl2020.fanpage             | IPL 2020 fan club                                       |
+| 4270829847  | udit_chouhann               | ‼ U_D_I_T ‼                                             |
+| 38453453198 | sanjaymishra06011978        | Sanjay Mishra                                           |
+| 26071558177 | hariom_rathore._            | Hariom Rathore                                          |
+| 35124621605 | _death_soul_swapneel_       | Swàpñèél                                                |
+| 7168121447  | bobbyashwin                 | Ashwin Patel Bobby                                      |
+| 7097957998  | ajit_singh23                | ajit singh                                              |
+| 6174030437  | nancybisht10                | . 𝐍𝐚𝐧𝐜𝐲 𝐁𝐢𝐬𝐡𝐭.                                          |
+| 9392924203  | heythere.kanak              | Scoobyyy🐼                                               |
+| 9132410377  | guriyasingh7984             | Priya Sanjay Singh                                      |
+| 11121088725 | sw.eety9708                 | Suman🖤                                                  |
+| 7160273984  | __aarohi__mummy__ki_ladli__ | Aarohi Sunny                                            |
+| 1381959173  | classy_hotelier             | Abhiranjan Singh                                        |
+| 35081438427 | sushmasingh6237             | Sushma Singh                                            |
+| 5712676709  | i.am_.abhi_                 | Abhii Shek                                              |
+| 9042574519  | priyanka___dhote            | Priyanka💫                                               |
+| 5983590002  | shalu2goldi                 | Shalu Singh                                             |
+| 7349365913  | amandixit._                 | Aman                                                    |
+| 34582217889 | isha_0269                   |                                                         |
+| 6553867302  | __patil.raj__               | Raj Patil                                               |
+| 33239919660 | _.meerangna._               | Twinkle Baghel                                          |
+| 32181588527 | pratiksha.__.kumbhar        | Pratiksha Kumbhar                                       |
+| 7795691476  | surajsing0                  | Thakur Suraj Singh                                      |
+| 33685385022 | mahendrasingh__pawar        | Mahendra singh pawar                                    |
+| 8308618601  | pankaj__dhake               | mr perfect 1432                                         |
+| 4026101473  | shreyanssshh                | SHREYANSH JOSHI                                         |
+| 32795929879 | _karan_singh_2000           | troublesome🥀                                            |
+| 32184896358 | _poojasingh__08             | Pooja                                                   |
+| 21542694353 | sneha_mohali                |                                                         |
+| 29161607603 | unheard_lines               | Harshal Prajapati                                       |
+| 31131520875 | ritika_singh003             | Ritika                                                  |
+| 7937992215  | shalini_shalu30             | 𝗦𝗵𝗮𝗹𝗶𝗻𝗶 𝗷𝗮𝗴𝗱𝗶𝘀𝗵 𝗰𝗵𝗼𝘂𝗵𝗮𝗻🦋                                |
+| 8962311859  | _himanshu_w                 | H҉Ꭵϻᗩή𝕤𝖍Ⓤ wáģhmářé                                      |
+| 25476547349 | gouravpatil097              | Gourav Patil                                            |
+| 23908070689 | shashisingh_rajpoot         | Shashi Ranjan Singh                                     |
+| 29876491335 | abhii_245                   | Abhishek pandya🙋🏻‍♂️                                    |
+| 32165074439 | harsh.__.parmar             | Harsh Parmar                                            |
+| 31353234701 | __khushi__0110              | ❣Khushi❣                                                |
+| 21633013311 | aleena.soby                 | Aleena soby                                             |
+| 3529675644  | g_a_u_rav_singh             | Gaurav Singh                                            |
+| 8276287195  | its_.shruti._               | Shruti..                                                |
+| 8534175679  | nikita_barde13              | N❗k❗t⭐                                                  |
+| 6202704645  | sushmita7093                | sushmita singh                                          |
+| 21795883476 | priyesh_k_sen               | Priyesh_k_sen                                           |
+| 7480821733  | meghavi.__11                | MEGHAVI🌟                                                |
+| 7721327601  | ronnakkk____                | Ronak Sharma                                            |
+| 29322656956 | _poonam.mishra__            | ❣️PooNAm MiSHra❣️                                       |
+| 6600198365  | ruchisingh3377              | Ruchi 💞                                                 |
+| 5485764740  | teammafia__esports          | Mafia eSports                                           |
+| 11291492688 | _.pikuuu._14                | अंकिता 🦋✨                                               |
+| 26067821886 | deekshabhosle               | deeksha bhosle                                          |
+| 8026111706  | marvelous_essence_1330      | Marvelous Essunce1330                                   |
+| 6621927685  | adityasingh_017_            | 🅰🅳🅸🆃🆈🅰  🆂🅸🅽🅶🅷                                           |
+| 10740943111 | anuragpatil05               | Anurag                                                  |
+| 8047744974  | yash.chandrawat             | ॥ यश ॥                                                  |
+| 13117711896 | neha1353singh               | Neha singh                                              |
+| 8560295791  | shivani_patel_74            | Shivani                                                 |
+| 5564169737  | ravi0961                    | Ravi Tiwari                                             |
+| 11399410513 | milan.raghuvanshi           | Milan Raghuvanshi                                       |
+| 4325143522  | __chandra__prakash          | Prakash Singh Rajput                                    |
+| 3145404340  | abhishek1kumarsingh         | Abhishek Singh                                          |
+| 9860600545  | dme17.pankajdgake           | pankaj                                                  |
+| 8550515891  | harishpahak                 | Harish Pathak                                           |
+| 5535562662  | singhrajput2761             | Sandeep Singh Rajput                                    |
+| 8610028577  | yashrajagalcha              | Yashraj Agalcha                                         |
+| 8756381384  | deeptisingh2172             | Deepti  singh                                           |
+| 4258650075  | anjali.singh960             | Anjali singh                                            |
+| 4790708071  | maarish__08                 |                                                         |
+| 7068082669  | cool_aayan_                 | DEADLY DEVIL😈😈😈                                         |
+| 5686329987  | divyanshu_sisodiya_         | Divyanshu Singh Sisodiya                                |
+| 8988748031  | naved7050                   | naved khan                                              |
+| 8656230739  | pradippradip209             | Pradip Pradip                                           |
+| 8524419483  | pr_iya7395                  | priya                                                   |
+| 4015070386  | punit_k_mishra_             | PUNIT                                                   |
+| 8268572367  | sofiyaaa.____01             | 𝚂𝚘𝚏𝚒𝚢𝚊🕊️                                                |
++-------------+-----------------------------+---------------------------------------------------------+
