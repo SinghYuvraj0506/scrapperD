@@ -1,0 +1,12 @@
++-------------+-------------------+---------------------------------------------------+---------------+
+| ID          | Username          | Full Name                                         |     Phone     |
++-------------+-------------------+---------------------------------------------------+---------------+
+| 1757796362  | amandeep__thind   | Amandeep Thind                                    | +919354164445 |
+| 2122933388  | puneetoberoicfp   | Puneet Oberoi                                     | +911141440728 |
+| 4117126667  | gauravcoach       | Gaurav Arora                                      | +918448632058 |
+| 4290201490  | edugorilla        | 🔵 EduGorilla 🔵                                    | +916393216806 |
+| 4459723981  | wscubetechindia   | WsCube Tech                                       | +919269698122 |
+| 5934074158  | manojguptaclub    | Manoj Gupta | Founder of Rethink Career Hub (RCH) | +919398565919 |
+| 14466189090 | askrajgupta       | Raj Gupta | Growth Marketer                       | +917007082277 |
+| 21861106755 | paritoshpathakint | Paritosh Pathak                                   | +919667333088 |
++-------------+-------------------+---------------------------------------------------+---------------+

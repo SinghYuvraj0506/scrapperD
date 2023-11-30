@@ -1,0 +1,42 @@
++-------------+-------------------------------+---------------------------------------------------+
+| ID          | Username                      | Full Name                                         |
++-------------+-------------------------------+---------------------------------------------------+
+| 9860166     | siddharthrajsekar             | Sidz | DIGITAL COACH                              |
+| 295325001   | abvaidya                      | Arjun Vaidya                                      |
+| 370205393   | bodybuilding_alchemist        | AtinderJeet Singh #el_patron                      |
+| 403890188   | rishabh_discovering_self      | Rishabh Kandpal                                   |
+| 1519781488  | purushottam_hambarde          | Purushottam Hambarde                              |
+| 1593714734  | meetavinash                   | Avinash Mada                                      |
+| 1697049742  | danishhshah                   | Danish Shah                                       |
+| 1757796362  | amandeep__thind               | Amandeep Thind                                    |
+| 2084135860  | dhanrajdhanokar               | Dhanraj Dhanokar                                  |
+| 2122933388  | puneetoberoicfp               | Puneet Oberoi                                     |
+| 2533775545  | aesha.96_                     | Aesha                                             |
+| 2903187472  | ravilex70024                  | Ravi Ahirwar                                      |
+| 3763885927  | mycaptainofficial             | MyCaptain                                         |
+| 4117126667  | gauravcoach                   | Gaurav Arora                                      |
+| 4266484939  | tanishapkalsi                 | Tanisha P Kalsi                                   |
+| 4290201490  | edugorilla                    | 🔵 EduGorilla 🔵                                    |
+| 4459723981  | wscubetechindia               | WsCube Tech                                       |
+| 4741806995  | keerthan.k.prabhu             | Keerthan K Prabhu                                 |
+| 5759311451  | sakshichandraakar             | Sakshi Chandraakar | Career Branding Coach        |
+| 5784274943  | digitalpratik                 | Pratiksinh Chudasama                              |
+| 5934074158  | manojguptaclub                | Manoj Gupta | Founder of Rethink Career Hub (RCH) |
+| 6030123153  | thethinkschool                | Ganeshprasad                                      |
+| 8252418357  | sahilagrawal07                | Sahil Agrawal                                     |
+| 13281226686 | protouch_training             | Protouch                                          |
+| 14466189090 | askrajgupta                   | Raj Gupta | Growth Marketer                       |
+| 16684499028 | ecomtushar                    | Tushar Thapar | Ecom Entrepreneur                 |
+| 21861106755 | paritoshpathakint             | Paritosh Pathak                                   |
+| 24325906151 | youngurbanproject             | Young Urban Project                               |
+| 38490090193 | myguniguru                    |                                                   |
+| 38900733284 | navodayatrading_institute     | Navodaya Trading Institute                        |
+| 45896600097 | fitnessbusinessaccelerator.in | Fitness Business Accelerator | FBA                |
+| 50297168644 | unsolvednetwork               | Unsolved | Coaching made easy                     |
+| 51531942189 | klarifylife                   | KlarifyLife                                       |
+| 51790592122 | abdulhakkim__official         | Abdul Hakkim Official                             |
+| 54563856238 | catchupwithsachin             | Sachin Sharma • Product Management • Career Coach |
+| 57425613192 | crackitwithvarsha             | Varsha Raikar | Interview Coach                   |
+| 61563581236 | ayaanmarketer                 | Ayan Aarfi                                        |
+| 9032732712  | ssinghyuvraj02                | ყų۷ཞąʝ ʂıŋɠɧ                                      |
++-------------+-------------------------------+---------------------------------------------------+
