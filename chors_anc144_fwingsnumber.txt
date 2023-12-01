@@ -1,0 +1,18 @@
++-------------+---------------------------+-----------------------------------+--------------------+
+| ID          | Username                  | Full Name                         |       Phone        |
++-------------+---------------------------+-----------------------------------+--------------------+
+| 5675009587  | officers_ias_academy      | Officers IAS Academy              |   +919677120226    |
+| 14440308424 | sudarshangurjar           | Sudarshan Gurjar                  |   +919039918319    |
+| 16217565553 | mudgalbiology             | Mudgal Biology                    |   +918949073931    |
+| 35695055351 | reactjsofficial           | Reactjsofficial                   |   +917209236123    |
+| 4029118589  | chanakyamandalpariwar     | Chanakya_Mandal                   |   +918069015454    |
+| 3132558467  | itsfoss                   | It's FOSS (Linux & OpenSource)    |    +33777493040    |
+| 51790592122 | abdulhakkim__official     | Abdul Hakkim Official             |   +919884899080    |
+| 8199672433  | devesh.mishra.9           | Dr Devesh Mishra                  | <<not-applicable>> |
+| 49962331454 | upscprepias               | UPSCprep.com                      |   +918209416936    |
+| 38766948946 | rpmc_jaipur               | राजस्थानी लोक चिकित्सा समिति        |   +911414004914    |
+| 4354373563  | designboatschool          | DesignBoat UI/UX School           |   +916361400157    |
+| 3027532600  | peptalkindia              | Pep Talk India                    |   +919311111396    |
+| 9132234863  | agrounder_                | Agriculture world 🥇agrounder 🎯50k |   +919175468295    |
+| 38900733284 | navodayatrading_institute | Navodaya Trading Institute        |   +919654998808    |
++-------------+---------------------------+-----------------------------------+--------------------+

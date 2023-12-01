@@ -1,0 +1,65 @@
++-------------+-------------------------------+---------------------------------------------------+
+| ID          | Username                      | Full Name                                         |
++-------------+-------------------------------+---------------------------------------------------+
+| 1327872211  | fazurrehman                   | Faizur Rehman                                     |
+| 4312783878  | garimagoel007                 | Garima Goel                                       |
+| 5675009587  | officers_ias_academy          | Officers IAS Academy                              |
+| 5967140095  | motivation__factory           | Ankit sharma                                      |
+| 8359839782  | sscmaker                      | SSC MAKER                                         |
+| 9372988010  | educare_karnataka             | EDUcare Karnataka Official                        |
+| 11360218662 | young_medicos                 | Young Medicos                                     |
+| 14440308424 | sudarshangurjar               | Sudarshan Gurjar                                  |
+| 16217565553 | mudgalbiology                 | Mudgal Biology                                    |
+| 21313918774 | theunskills                   | English Speaking | Career Tips                    |
+| 21937483925 | _pythonworld_                 | Python | Web Development | Django                 |
+| 23883538502 | aiimsneetshortnotes           | NEET || MEDICAL || AIIMS 🩺🧑‍⚕️                    |
+| 31945683033 | coderx.muneeb                 | Web developer | Muneeb . 100K 🎯                   |
+| 35695055351 | reactjsofficial               | Reactjsofficial                                   |
+| 41137884604 | code.aryan                    | Aryan Shrivastava | Tech & Coding 🧑‍💻             |
+| 43102233406 | techieh4cker                  | Cybersecurity | Info Tech                         |
+| 45486076039 | citizendatascientist          | Preksha K | Saurabh Moody                         |
+| 48192729359 | life.of.aye                   | Ayesha                                            |
+| 52415650357 | aasifcodes                    | Aasif  |  Data Science                            |
+| 2286478238  | studyathome                   | STUDY AT HOME                                     |
+| 10447884875 | youngest_aspirant             | Youngest Aspirant                                 |
+| 13560852628 | masaischool                   | Masai                                             |
+| 46977701092 | cyber_tech_abhi               | Abhi Barman  | Ethical Hacker                     |
+| 47303906494 | vectorayush                   | Ayush Tiwari | Graphic & Web Designer             |
+| 4029118589  | chanakyamandalpariwar         | Chanakya_Mandal                                   |
+| 3132558467  | itsfoss                       | It's FOSS (Linux & OpenSource)                    |
+| 57425613192 | crackitwithvarsha             | Varsha Raikar | Interview Coach                   |
+| 39637216456 | medicineofgreys               | Dr. Varshini’s Gram 💉                             |
+| 51790592122 | abdulhakkim__official         | Abdul Hakkim Official                             |
+| 54846578726 | lalitkumar.dev                | Lalit kumar 🇮🇳                                    |
+| 45896600097 | fitnessbusinessaccelerator.in | Fitness Business Accelerator | FBA                |
+| 2946730532  | viralkalakar                  | Ujjwal Kumar Shriwastav                           |
+| 8199672433  | devesh.mishra.9               | Dr Devesh Mishra                                  |
+| 5999885847  | anuj.kumar.sharma             | Anuj Kumar Sharma                                 |
+| 6775652033  | idatawiz                      | Krithi | Data Wizard 🇨🇦🇮🇳                         |
+| 2253550930  | sunejaajay                    | Ajay Suneja Aka Technical Suneja ✨                |
+| 6131598915  | mehulmpt                      | Mehul Mohan                                       |
+| 480350449   | thestunningmedico             | ISHITA                                            |
+| 5606121530  | aman.tilak.5                  | Aman Tilak                                        |
+| 49962331454 | upscprepias                   | UPSCprep.com                                      |
+| 38766948946 | rpmc_jaipur                   | राजस्थानी लोक चिकित्सा समिति                        |
+| 61563581236 | ayaanmarketer                 | Ayan Aarfi                                        |
+| 2148547360  | anmolsharmalive               | Anmol Sharma                                      |
+| 17165021482 | dr.vyakhya_thebloggerdentist  | Dr. Vyakhya Gupta                                 |
+| 55644399363 | curious.chahar                | Nishant Chahar                                    |
+| 51531942189 | klarifylife                   | KlarifyLife                                       |
+| 4354373563  | designboatschool              | DesignBoat UI/UX School                           |
+| 30607579319 | codewithshreya                | Shreya | Tech & Career Growth                     |
+| 3027532600  | peptalkindia                  | Pep Talk India                                    |
+| 9132234863  | agrounder_                    | Agriculture world 🥇agrounder 🎯50k                 |
+| 50297168644 | unsolvednetwork               | Unsolved | Coaching made easy                     |
+| 11078411426 | drshahzad2017                 | Dr.Shahzad Ali                                    |
+| 52185620670 | coder_aishya                  | Coder Aishya | Front end Developer                |
+| 31693463616 | vamsi_bhavani                 | Vamsi Bhavani Channel                             |
+| 3578362408  | anshikagupta111               | Anshika Gupta                                     |
+| 2097721055  | krishnaik06                   | Krish Naik                                        |
+| 42332058441 | developers.india              | Developer | Career | Tech                         |
+| 54563856238 | catchupwithsachin             | Sachin Sharma • Product Management • Career Coach |
+| 38900733284 | navodayatrading_institute     | Navodaya Trading Institute                        |
+| 40969293719 | datasciencebyray              | Reia N                                            |
+| 34109244558 | developer.kk                  | Kundan l React Developer | Motivation 🇮🇳          |
++-------------+-------------------------------+---------------------------------------------------+

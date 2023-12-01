@@ -1,0 +1,50 @@
++-------------+------------------------------+---------------------------------------------------+---------------------------------------+
+| ID          | Username                     | Full Name                                         | Email                                 |
++-------------+------------------------------+---------------------------------------------------+---------------------------------------+
+| 4312783878  | garimagoel007                | Garima Goel                                       | garimagoel007@gmail.com               |
+| 5675009587  | officers_ias_academy         | Officers IAS Academy                              | info@officersiasacademy.com           |
+| 5967140095  | motivation__factory          | Ankit sharma                                      | motivationfactoryteam@gmail.com       |
+| 9372988010  | educare_karnataka            | EDUcare Karnataka Official                        | teameducarekarnataka@gmail.com        |
+| 11360218662 | young_medicos                | Young Medicos                                     | dr.piyushchauhan01@gmail.com          |
+| 14440308424 | sudarshangurjar              | Sudarshan Gurjar                                  | gurjar18sud@gmail.com                 |
+| 16217565553 | mudgalbiology                | Mudgal Biology                                    | mudgalbiology@gmail.con               |
+| 21937483925 | _pythonworld_                | Python | Web Development | Django                 | pythonworld05@gmail.com               |
+| 23883538502 | aiimsneetshortnotes          | NEET || MEDICAL || AIIMS 🩺🧑‍⚕️                    | aiimsneetshortnotesofficial@gmail.com |
+| 31945683033 | coderx.muneeb                | Web developer | Muneeb . 100K 🎯                   | contact.coderx.muneeb@gmail.com       |
+| 35695055351 | reactjsofficial              | Reactjsofficial                                   | reactjsofficial1@gmail.com            |
+| 41137884604 | code.aryan                   | Aryan Shrivastava | Tech & Coding 🧑‍💻             | itsaryanshrivastava@gmail.com         |
+| 43102233406 | techieh4cker                 | Cybersecurity | Info Tech                         | techiehacker8@gmail.com               |
+| 45486076039 | citizendatascientist         | Preksha K | Saurabh Moody                         | preksha@alphaa.ai                     |
+| 48192729359 | life.of.aye                  | Ayesha                                            | ayesha.a@lifeofaye.me                 |
+| 52415650357 | aasifcodes                   | Aasif  |  Data Science                            | aasifcodes@gmail.com                  |
+| 10447884875 | youngest_aspirant            | Youngest Aspirant                                 | iasf.h.khan@gmail.com                 |
+| 13560852628 | masaischool                  | Masai                                             | admissions@masaischool.com            |
+| 46977701092 | cyber_tech_abhi              | Abhi Barman  | Ethical Hacker                     | luckybarman2004lb@gmail.com           |
+| 47303906494 | vectorayush                  | Ayush Tiwari | Graphic & Web Designer             | vectorayushofficial@gmail.com         |
+| 4029118589  | chanakyamandalpariwar        | Chanakya_Mandal                                   | office@chanakyamandal.org             |
+| 3132558467  | itsfoss                      | It's FOSS (Linux & OpenSource)                    | abhishek@itsfoss.com                  |
+| 57425613192 | crackitwithvarsha            | Varsha Raikar | Interview Coach                   | crackitwithvarsha@gmail.com           |
+| 39637216456 | medicineofgreys              | Dr. Varshini’s Gram 💉                             | medicinegreys@gmail.com               |
+| 51790592122 | abdulhakkim__official        | Abdul Hakkim Official                             | support@yinguru.com                   |
+| 54846578726 | lalitkumar.dev               | Lalit kumar 🇮🇳                                    | lalitkumar.dev1@gmail.com             |
+| 2946730532  | viralkalakar                 | Ujjwal Kumar Shriwastav                           | viralkalakar@gmail.com                |
+| 8199672433  | devesh.mishra.9              | Dr Devesh Mishra                                  | drdev555@gmail.com                    |
+| 6775652033  | idatawiz                     | Krithi | Data Wizard 🇨🇦🇮🇳                         | idatawiz@gmail.com                    |
+| 2253550930  | sunejaajay                   | Ajay Suneja Aka Technical Suneja ✨                | tutorialspoint2016@gmail.com          |
+| 6131598915  | mehulmpt                     | Mehul Mohan                                       | mehulmpt@gmail.com                    |
+| 480350449   | thestunningmedico            | ISHITA                                            | thestunningmedico@gmail.com           |
+| 49962331454 | upscprepias                  | UPSCprep.com                                      | contact@upscprep.com                  |
+| 38766948946 | rpmc_jaipur                  | राजस्थानी लोक चिकित्सा समिति                        | rpmc.helpdesk@gmail.com               |
+| 61563581236 | ayaanmarketer                | Ayan Aarfi                                        | ayan@digithrive.in                    |
+| 17165021482 | dr.vyakhya_thebloggerdentist | Dr. Vyakhya Gupta                                 | dr.vyakhya@gmail.com                  |
+| 4354373563  | designboatschool             | DesignBoat UI/UX School                           | buzz@designboat.in                    |
+| 30607579319 | codewithshreya               | Shreya | Tech & Career Growth                     | codewithshreya@gmail.com              |
+| 3027532600  | peptalkindia                 | Pep Talk India                                    | hello@peptalkindia.com                |
+| 9132234863  | agrounder_                   | Agriculture world 🥇agrounder 🎯50k                 | agrounder111@gmail.com                |
+| 11078411426 | drshahzad2017                | Dr.Shahzad Ali                                    | choudharyshahzad78@gmail.com          |
+| 52185620670 | coder_aishya                 | Coder Aishya | Front end Developer                | coderaishya@gmail.com                 |
+| 31693463616 | vamsi_bhavani                | Vamsi Bhavani Channel                             | contact.vamsibhavani@gmail.com        |
+| 42332058441 | developers.india             | Developer | Career | Tech                         | developersindia360@gmail.com          |
+| 54563856238 | catchupwithsachin            | Sachin Sharma • Product Management • Career Coach | team@catchupwithsachin.com            |
+| 38900733284 | navodayatrading_institute    | Navodaya Trading Institute                        | nikhil.navodaya@gmail.com             |
++-------------+------------------------------+---------------------------------------------------+---------------------------------------+
